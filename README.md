@@ -8,7 +8,7 @@
 6) Add your code to Github + create Demo page (using GitHub pages). 
 7) Add tests (enzyme + jest).
 
-#Requirements: 
+# Requirements: 
 1) React 16.8,
 2) Redux, 
 3) Sass (scss syntaxis), 
